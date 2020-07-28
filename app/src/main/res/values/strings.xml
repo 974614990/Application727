@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android开发</string>
+    <string name="title">Android Develop</string>
+    <string name="loginButton">登录</string>
+</resources>
